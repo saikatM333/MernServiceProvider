@@ -1,0 +1,46 @@
+.flex-wrapper{
+    display: grid ;
+    grid-template-columns:  auto auto auto ;
+    gap : 10px ;
+    padding-left : 13vw;
+   
+}
+.card-wrapper{
+    width: 20vw;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white ;
+    border-radius: 25px ;
+    padding: 10px   ;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.service {
+    display: inline-block;
+    width : 12vw;
+  
+   
+}
+.two{
+    display: flex;
+    gap :15px 
+}
+.price {
+    display: inline-block;
+    width : 5vw;
+   
+   
+}
+.provider{
+
+}
+.image{
+    width: 17vw;
+    height: 25vh;
+}
+
+.description{
+
+}

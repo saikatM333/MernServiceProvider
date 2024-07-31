@@ -1,0 +1,33 @@
+*{
+    padding:0  ;
+    margin: 0px ;
+    padding-top: 2px ;
+}
+
+ul{
+    display :flex;
+   margin-bottom: 15% ;
+  
+}
+
+li{
+    list-style: none ;
+    margin-right: 15%;
+   
+}
+.no-margin{
+    
+}
+.Cointainer-nav{
+    display: flex;
+    width: 98.7vw;
+   
+}
+.logo-brand {
+    display: inline-block;
+    width: 50%;
+   
+
+}
+
+

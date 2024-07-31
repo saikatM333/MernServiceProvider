@@ -1,0 +1,33 @@
+.section-analytics{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 88.7vw;
+    background-color: white;
+   padding-top: 2%;
+   padding-bottom: 2%;
+   border-radius: 10px ;
+    
+}
+.div1{
+    display: inline-block;
+    border-right: grey solid;
+   
+   margin-left:2vw;
+   width: 15vw;
+   color: black ;
+}
+.div1 p{
+    color: black;
+}
+
+
+

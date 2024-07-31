@@ -1,0 +1,27 @@
+.header{
+    font-weight: 700;
+    font-size: 170px ;
+}
+.content{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    width: 44%;
+    font-size: 18px ;
+    margin-bottom: 20px ;
+    
+}
+h4{
+    font-weight: 700;
+    font-size: 18px ;
+    color: #ffffff;
+    margin-top: 20px ;
+    margin-bottom: 20px ;
+}
+.btn-group{
+    display: flex;
+    gap:10px ;
+}

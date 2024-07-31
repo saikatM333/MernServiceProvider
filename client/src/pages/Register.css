@@ -1,0 +1,29 @@
+.section-registraion{
+    display: flex;
+}
+.container{
+    width:50%;
+}
+
+label{
+    font-size: 30px ;
+    display: block;
+    color:  #535bf2;
+}
+input{
+   
+   height:38px ;
+   width:500px ;
+   border-color: white;
+   background-color: #242424;
+   color: #ffffff;
+   border-radius: 50px  ;
+
+}
+.btn{
+    font-size: 20px ;
+    background-color:  #535bf2;
+    border-radius: 20px ;
+    margin-top: 15px ;
+    color: white ;
+}

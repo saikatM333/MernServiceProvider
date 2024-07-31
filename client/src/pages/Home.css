@@ -1,0 +1,15 @@
+.section-hero{
+ display: flex;
+ width: 98.7vw;
+ margin-right: 0px ;
+ 
+ 
+}
+.btn-cont{
+    margin-right: 2%;
+}
+p{
+    color: #ffffff;
+    width: 80%;
+}
+
